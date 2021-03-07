@@ -1,8 +1,9 @@
 ;;; -*- coding: latin-1 -*-
 
 ;; Spanish Morphology
-;;  Copyright (C) 2001 Kenneth Haase. All Rights Reserved
-;;  Copyright (C) 2001-2020 beingmeta, inc. All Rights Reserved
+;;  Copyright (C) 2001 Kenneth Haase
+;;  Copyright (C) 2001-2020 beingmeta, inc.
+;;  Copyright (C) 2020-2021 Kenneth Haase (ken.haase@alum.mit.edu)
 
 (in-module 'morph/es)
 

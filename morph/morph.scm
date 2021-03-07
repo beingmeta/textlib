@@ -1,3 +1,9 @@
+;; -*- coding: latin-1 -*-
+
+;;  Copyright (C) 2001 Kenneth Haase
+;;  Copyright (C) 2001-2020 beingmeta, inc.
+;;  Copyright (C) 2020-2021 Kenneth Haase (ken.haase@alum.mit.edu)
+
 (in-module 'morph)
 
 (module-export!

@@ -1,7 +1,7 @@
 ;; -*- Coding: utf-8 -*-
 
 ;; English Morphology
-;;  Copyright (C) 2001 Kenneth Haase, All Rights Reserved
+;;  Copyright (C) 2001 Kenneth Haase (ken.haase@alum.mit.edu), All Rights Reserved
 ;;  Copyright (C) 2001-2020 beingmeta, inc.
 
 (in-module 'morph/freqs)
