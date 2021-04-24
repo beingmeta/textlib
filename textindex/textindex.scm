@@ -6,7 +6,7 @@
 
 ;;; Module for simple text analysis, including morphrules and
 ;;;  reference point extraction
-(use-module '{texttools logger kno/reflect binio})
+(use-module '{texttools logger reflection binio})
 
 ;;; Some terminology
 ;;;  In the code below,
