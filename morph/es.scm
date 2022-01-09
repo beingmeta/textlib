@@ -3,7 +3,7 @@
 ;; Spanish Morphology
 ;;  Copyright (C) 2001 Kenneth Haase
 ;;  Copyright (C) 2001-2020 beingmeta, inc.
-;;  Copyright (C) 2020-2021 Kenneth Haase (ken.haase@alum.mit.edu)
+;;  Copyright (C) 2020-2022 Kenneth Haase (ken.haase@alum.mit.edu)
 
 (in-module 'morph/es)
 
